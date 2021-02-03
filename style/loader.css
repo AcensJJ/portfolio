@@ -13,14 +13,14 @@
   }
   
   #status {
-	width: 200px;
-	height: 200px;
+	width: 50%;
+	height: 50%;
 	position: absolute;
-	left: 50%;
+	left: 35%;
 	/* centers the loading animation horizontally one the screen */
-	top: 50%;
+	top: 30%;
 	/* centers the loading animation vertically one the screen */
-	background-image: url(https://raw.githubusercontent.com/niklausgerber/PreLoadMe/master/img/status.gif);
+	background-image: url(https://cutewallpaper.org/21/loading-gif-transparent-background/Top-30-Most-Captivating-PreLoaders-for-Your-Website.gif);
 	/* path to your loading animation */
 	background-repeat: no-repeat;
 	background-position: center;

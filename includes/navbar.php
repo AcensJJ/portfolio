@@ -1,4 +1,3 @@
-<div class="scroll-line"></div>
 <nav class="navbar">
 	<div class="max-width">
 		<div class="logo">
