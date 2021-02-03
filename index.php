@@ -61,7 +61,7 @@
                     <div class="box">
 						<i class="fab fa-symfony"></i>
                         <div class="text">
-							Symfony 4
+							Symfony
 						</div>
 					</div>
 				</div>
