@@ -31,7 +31,7 @@
 			<div class="about-content">
 				<div class="column left">
 					<div class="moving">
-						<img class="slide-in from-left" src="./images/large_jacens.jpg" alt="jacens">
+						<img class="slide-in from-left" src="https://scontent-cdg2-1.cdninstagram.com/v/t51.2885-19/s320x320/28158023_1184306528370776_4184908548586602496_n.jpg?_nc_ht=scontent-cdg2-1.cdninstagram.com&_nc_ohc=JyCD488yoF4AX80D1RJ&tp=1&oh=4b9c8de7825462aff96f5cf2be934c37&oe=60477B14" alt="jacens">
 					</div>
 				</div>
 				<div class="column right fade-in">
