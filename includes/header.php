@@ -5,6 +5,7 @@
 	<link rel="icon" href="https://image.freepik.com/free-vector/80s-retro-sci-fi-background-with-sun_8276-396.jpg" />
 	<link rel="stylesheet" href="style/style.css">
 	<link rel="stylesheet" href="style/loader.css">
+	<link rel="stylesheet" href="style/appear.css">
 	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
 	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
 	<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>

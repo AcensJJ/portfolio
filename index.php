@@ -31,10 +31,10 @@
 			<div class="about-content">
 				<div class="column left">
 					<div class="moving">
-						<img src="./images/large_jacens.jpg" alt="jacens">
+						<img class="slide-in from-left" src="./images/large_jacens.jpg" alt="jacens">
 					</div>
 				</div>
-				<div class="column right">
+				<div class="column right fade-in">
 					<div class="text">
 						Je suis Jean-Jacens et je suis <span class="typing-2"></span>
 					</div>
@@ -56,7 +56,7 @@
             <h2 class="title">
 				Mes outils préférés
 			</h2>
-			<div class="serv-content">
+			<div class="serv-content fade-in">
                 <div class="card">
                     <div class="box">
 						<i class="fab fa-symfony"></i>
@@ -92,7 +92,7 @@
 				Mes compétences
 			</h2>
 			<div class="skills-content">
-                <div class="column left">
+                <div class="column left slide-in from-left">
                     <div class="text">
 						Mes statistiques github
 					</div>
@@ -100,7 +100,7 @@
 						<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AcensJJ&layout=compact&langs_count=8&theme=cobalt"/>
 					</div>
 				</div>
-				<div class="column right">
+				<div class="column right slide-in from-right">
 					<div class="bars">
 						<div class="info">
 							<span>C / C++ / C#</span>
@@ -152,7 +152,7 @@
             <h2 class="title">
 				Contact me
 			</h2>
-			<div class="contact-content">
+			<div class="contact-content fade-in">
 				<div class="icons">
 					<div class="row">
 						<i class="fas fa-user"></i>
