@@ -90,7 +90,7 @@ $(document).ready(function(){
     });
 });
 
-VanillaTilt.init(document.querySelectorAll(".button-move"), {
+VanillaTilt.init(document.querySelectorAll(".sl-anime-mv"), {
 	max: 5,
 	speed: 200
 });
