@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="fr">
-<?php include("/includes/header.php"); ?>
+<?php include("./includes/header.php"); ?>
 
     <!-- home section start -->
     <section class="home" id="home">
@@ -195,4 +195,4 @@
 		</div>
 	</section>
 
-<?php include("/includes/bottom.php"); ?>
+<?php include("./includes/bottom.php"); ?>
