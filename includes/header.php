@@ -31,4 +31,4 @@
 	<div class="scroll-up-btn">
 		<i class="fas fa-angle-up"></i>
 	</div>
-	<!-- <?php include("/navbar.php"); ?> -->
+	<!-- <?php include("./navbar.php"); ?> -->
