@@ -6,11 +6,6 @@
 	<link rel="stylesheet" href="style/style.css">
 	<link rel="stylesheet" href="style/loader.css">
 	<link rel="stylesheet" href="style/appear.css">
-	<script src="https://kit.fontawesome.com/a076d05399.js"></script>
-	<script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
-	<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
 	<meta name="description" content="Portfolio devellopeur Jacens.">
 	<meta name="author" content="Jean-Jacques Acens">
@@ -23,12 +18,14 @@
 	<meta property="og:type" content="website">
 </head>
 <body>
+
 	<!-- Preloader -->
 	<div id="preloader">
 		<div id="status">&nbsp;</div>
 	</div>
+	
+	<!-- Scrolling top line -->
 	<div class="scroll-line"></div>
 	<div class="scroll-up-btn">
 		<i class="fas fa-angle-up"></i>
 	</div>
-	<!-- <?php include("./navbar.php"); ?> -->

@@ -38,7 +38,7 @@ section{
     padding: 0 80px;
     margin: auto;
 }
-.about, .my-info, .skills, .work, .contact, footer{
+.about, .my-info, .skills, .project, .contact, footer{
     font-family: 'Poppins', sans-serif;
 }
 .about .about-content, 
@@ -271,16 +271,16 @@ section .title::after{
 }
 
 /* services section styling */
-.my-info, .work{
+.my-info, .project{
     color:#fafafa;
     background: #020726;
 }
 .my-info .title::before,
-.work .title::before{
+.project .title::before{
     background: #fafafa;
 }
 .my-info .title::after,
-.work .title::after{
+.project .title::after{
     background: #020726;
     content: "what i provide";
 }
@@ -387,11 +387,11 @@ section .title::after{
     width: 75%;
 }
 
-/* work section styling */
-.work .title::after{
-    content: "who with me";
+/* project section styling */
+.project .title::after{
+    content: "what i did";
 }
-.work .carousel .card{
+.project .carousel .card{
     background: #07256a;
     border-radius: 6px;
     padding: 25px 35px;
@@ -399,25 +399,25 @@ section .title::after{
     overflow: hidden;
     transition: all 0.3s ease;
 }
-.work .carousel .card:hover{
+.project .carousel .card:hover{
     background: #5eaaa8;
 }
-.work .carousel .card .box{
+.project .carousel .card .box{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
     transition: all 0.3s ease;
 }
-.work .carousel .card:hover .box{
+.project .carousel .card:hover .box{
     transform: scale(1.05);
 }
-.work .carousel .card .text{
+.project .carousel .card .text{
     font-size: 25px;
     font-weight: 500;
     margin: 10px 0 7px 0;
 }
-.work .carousel .card img{
+.project .carousel .card img{
     height: 150px;
     width: 150px;
     object-fit: cover;
@@ -425,7 +425,7 @@ section .title::after{
     border: 5px solid #5eaaa8;
     transition: all 0.3s ease;
 }
-.work .carousel .card:hover img{
+.project .carousel .card:hover img{
     border-color: #fafafa;
 }
 .owl-dots{

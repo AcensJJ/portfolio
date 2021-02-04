@@ -50,38 +50,12 @@
 		</div>
 	</section>
 
-    <!-- info section start -->
-    <section class="my-info" id="my-info">
-        <div class="max-width">
+	<!-- project section start -->
+	<section class="project" id="project">
+	<div class="max-width">
             <h2 class="title">
-				Mes outils préférés
+				Mes Projets
 			</h2>
-			<div class="serv-content fade-in">
-                <div class="card">
-                    <div class="box">
-						<i class="fab fa-symfony"></i>
-                        <div class="text">
-							Symfony
-						</div>
-					</div>
-				</div>
-				<div class="card">
-                    <div class="box">
-						<i class="fas fa-terminal"></i>
-                        <div class="text">
-							Bash and C
-						</div>
-					</div>
-				</div>
-				<div class="card">
-                    <div class="box">
-						<i class="fab fa-github"></i>
-                        <div class="text">
-							Github
-						</div>
-					</div>
-				</div>
-			</div>
 		</div>
 	</section>
 
@@ -139,6 +113,41 @@
 							<span>75%</span>
 						</div>
 						<div class="line mysql">
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
+
+	<!-- info section start -->
+	<section class="my-info" id="my-info">
+        <div class="max-width">
+            <h2 class="title">
+				Mes outils préférés
+			</h2>
+			<div class="serv-content fade-in">
+                <div class="card">
+                    <div class="box">
+						<i class="fab fa-symfony"></i>
+                        <div class="text">
+							Symfony
+						</div>
+					</div>
+				</div>
+				<div class="card">
+                    <div class="box">
+						<i class="fas fa-terminal"></i>
+                        <div class="text">
+							Bash and C
+						</div>
+					</div>
+				</div>
+				<div class="card">
+                    <div class="box">
+						<i class="fab fa-github"></i>
+                        <div class="text">
+							Github
 						</div>
 					</div>
 				</div>
