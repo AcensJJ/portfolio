@@ -31,7 +31,7 @@
 			<div class="about-content">
 				<div class="column left">
 					<div class="moving">
-						<img class="slide-in from-left" src="./images/jacens" alt="jacens">
+						<img class="slide-in from-left" src="./images/large_jacens" alt="jacens">
 					</div>
 				</div>
 				<div class="column right fade-in">
@@ -92,7 +92,7 @@
 				Mes compétences
 			</h2>
 			<div class="skills-content">
-                <div class="column left slide-in from-right">
+                <div class="column left slide-in from-left">
                     <div class="text">
 						Mes statistiques github
 					</div>
@@ -100,7 +100,7 @@
 						<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AcensJJ&layout=compact&langs_count=8&theme=cobalt"/>
 					</div>
 				</div>
-				<div class="column right slide-in from-left">
+				<div class="column right fade-in">
 					<div class="bars">
 						<div class="info">
 							<span>C / C++ / C#</span>
@@ -190,7 +190,7 @@
 				</div>
 				<div class="column right">
 					<div class="moving">
-						<img class="slide-in from-left" src="./images/thanks.gif" alt="thx">
+						<img class="slide-in from-left" src="./images/thank.gif" alt="thx">
 					</div>
 				</div>
 			</div>
