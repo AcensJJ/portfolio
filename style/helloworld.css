@@ -1,0 +1,293 @@
+@import url("https://fonts.googleapis.com/css?family=Fredoka+One&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Fredoka One", cursive;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background: #e7ffff;
+}
+.container__elements {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.bg {
+  width: 450px;
+  height: 388px;
+  background-image: linear-gradient(to bottom, #762e77, #046fb7);
+  -webkit-mask-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3522775/HelloWorldMainBGBlack.svg);
+  mask-image: url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/3522775/HelloWorldMainBGBlack.svg);
+  mask-repeat: no-repeat;
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+}
+.bg__circles-items {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.bg__circles-items__circle {
+  position: absolute;
+  border-radius: 50%;
+  background: #343576;
+}
+
+.circle1 {
+  width: 350px;
+  height: 350px;
+  opacity: 0.3;
+}
+
+.circle2 {
+  width: 330px;
+  height: 330px;
+  opacity: 0.5;
+}
+
+.circle3 {
+  width: 300px;
+  height: 300px;
+  opacity: 0.8;
+}
+
+.sun,
+.venus {
+  position: absolute;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+.sun {
+  top: -15px;
+  left: 25px;
+  background: #df981c;
+  border: 5px solid #fcc837;
+}
+
+.venus {
+  right: 40px;
+  bottom: -20px;
+  background: #e64791;
+  border: 5px solid #fe6ac5;
+}
+
+.earth {
+  cursor: pointer;
+  position: absolute;
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  background: #45c6f0;
+  border: 8px solid #76ecfc;
+  overflow: hidden;
+}
+.earth__text {
+  color: white;
+  font-size: 50px;
+  z-index: 2;
+}
+.earth__continent-left, .earth__continent-right, .earth__continent-bottom {
+  background-color: #3edfd9;
+  border-radius: 50%;
+  position: absolute;
+}
+.earth__continent-left {
+  width: 100px;
+  height: 175px;
+  left: -45px;
+  transform: rotate(-20deg);
+  top: 70px;
+}
+.earth__continent-right {
+  width: 150px;
+  height: 200px;
+  transform: rotate(70deg);
+  right: -70px;
+  top: 0px;
+}
+.earth__continent-bottom {
+  width: 100px;
+  height: 100px;
+  right: 15px;
+  bottom: -65px;
+}
+
+.cloud {
+  background-color: white;
+  opacity: 0.5;
+  position: absolute;
+}
+
+.cloud1,
+.cloud2,
+.cloud3,
+.cloud4,
+.cloud5,
+.cloud6,
+.cloud7 {
+  border-radius: 40px;
+}
+
+.cloud1 {
+  width: 100px;
+  height: 50px;
+  bottom: 120px;
+  left: 90px;
+}
+
+.cloud2 {
+  width: 80px;
+  height: 25px;
+  bottom: 80px;
+  left: 125px;
+}
+
+.cloud3 {
+  width: 35px;
+  height: 25px;
+  bottom: 80px;
+  left: 220px;
+}
+
+.cloud4 {
+  width: 170px;
+  height: 35px;
+  top: 120px;
+  left: 60px;
+}
+
+.cloud5 {
+  width: 110px;
+  height: 25px;
+  top: 80px;
+  left: 150px;
+}
+
+.cloud6 {
+  width: 110px;
+  height: 25px;
+  top: 230px;
+  right: 60px;
+}
+
+.cloud7 {
+  width: 70px;
+  height: 50px;
+  top: 165px;
+  right: 100px;
+}
+
+.hello__world {
+  z-index: 10;
+  position: absolute;
+  color: white;
+  font-size: 0px;
+  -webkit-text-stroke: 1px #343576;
+}
+
+/* --------Social Icons-------- */
+/* Color Variables */
+/* Social Icon Mixin */
+.social-icons {
+  display: flex;
+  position: absolute;
+  bottom: 25px;
+  right: 25px;
+}
+
+.social-icon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: relative;
+  width: 40px;
+  height: 40px;
+  margin: 0 0.7rem;
+  border-radius: 50%;
+  cursor: pointer;
+  font-family: "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+  font-size: 1.5rem;
+  text-decoration: none;
+  transition: all 0.15s ease;
+}
+.social-icon:hover {
+  color: #fff;
+}
+.social-icon:hover .tooltip {
+  visibility: visible;
+  opacity: 1;
+  transform: translate(-50%, -150%);
+}
+.social-icon:active {
+  box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.5) inset;
+}
+.social-icon--linkedin {
+  background: #2b97f1;
+  color: #fff;
+}
+.social-icon--linkedin .tooltip {
+  background: #2b97f1;
+  color: currentColor;
+}
+.social-icon--linkedin .tooltip:after {
+  border-top-color: #2b97f1;
+}
+.social-icon--github {
+  background: #000;
+  color: #fff;
+}
+.social-icon--github .tooltip {
+  background: #000;
+  color: currentColor;
+}
+.social-icon--github .tooltip:after {
+  border-top-color: #000;
+}
+.social-icon i {
+  position: relative;
+  top: 1px;
+}
+
+/* Tooltips */
+.tooltip {
+  display: block;
+  position: absolute;
+  top: 0;
+  left: 50%;
+  padding: 0.4rem 0.6rem;
+  border-radius: 40px;
+  font-size: 0.4rem;
+  font-weight: bold;
+  opacity: 0;
+  pointer-events: none;
+  text-transform: uppercase;
+  transform: translate(-50%, -100%);
+  transition: all 0.3s ease;
+  z-index: 1;
+}
+.tooltip:after {
+  display: block;
+  position: absolute;
+  bottom: 1px;
+  left: 50%;
+  width: 0;
+  height: 0;
+  content: "";
+  border: solid;
+  border-width: 10px 10px 0 10px;
+  border-color: transparent;
+  transform: translate(-50%, 100%);
+}
