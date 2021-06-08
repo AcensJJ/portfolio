@@ -10,9 +10,9 @@
 	/* change if the mask should have another color then white */
 	z-index: 99;
 	/* makes sure it stays on top */
-  }
+}	
   
-  #status {
+#status {
 	width: 50%;
 	height: 50%;
 	position: absolute;
@@ -26,4 +26,4 @@
 	background-position: center;
 	margin: -100px 0 0 -100px;
 	/* is width and height divided by two */
-  }
+}

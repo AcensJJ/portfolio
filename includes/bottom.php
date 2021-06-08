@@ -1,5 +1,5 @@
 		<footer>
-			<span>Created By <a href="https://github.com/AcensJJ/">Jacens</a> | <span class="far fa-copyright"></span> <?php echo date("Y"); ?> All rights reserved.</span>
+			<span>By <a href="https://github.com/AcensJJ/">Jacens</a> | <span class="far fa-copyright"></span> <?php echo date("Y"); ?> All rights reserved.</span>
 		</footer>
 
 		<!-- js lib -->
@@ -10,6 +10,7 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
 
 		<!-- My js -->
+		<script src="js/slider.js"></script>
 		<script src="js/observers.js"></script>
 		<script type="text/javascript" src="js/vanilla-tilt.js"></script>
 		<script src="js/script.js"></script>
