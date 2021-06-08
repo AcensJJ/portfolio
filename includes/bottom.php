@@ -8,9 +8,8 @@
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/typed.js/2.0.11/typed.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/waypoints/4.0.1/jquery.waypoints.min.js"></script>
 		<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>
-
 		<!-- My js -->
-		<script src="js/slider.js"></script>
+		<script src="js/carousel.js"></script>
 		<script src="js/observers.js"></script>
 		<script type="text/javascript" src="js/vanilla-tilt.js"></script>
 		<script src="js/script.js"></script>
