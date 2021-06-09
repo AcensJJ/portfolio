@@ -3,14 +3,13 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Jacens</title>
 	<link rel="icon" href="images/logo.PNG"/>
+	<link rel="stylesheet" href="style/cv.css">
 	<link rel="stylesheet" href="style/helloworld.css">
 	<link rel="stylesheet" href="style/loader.css">
 	<link rel="stylesheet" href="style/styles.css">
-	<link rel="stylesheet" href="style/appear.css">
 	<link rel="stylesheet" href="style/carousel.css">
-	<link rel='stylesheet' href='https://npmcdn.com/flickity@2/dist/flickity.css'>
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.min.css"/>
+	<link rel="stylesheet" href="style/appear.css">
+	<link rel="stylesheet" href="style/info.css">
 	<meta name="description" content="Portfolio devellopeur Jacens.">
 	<meta name="author" content="Jean-Jacques Acens">
 	<meta name="Copyright" content="Jacens">

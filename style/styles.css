@@ -33,9 +33,6 @@ body{
 }
 
 /* all similar content styling codes */
-section{
-    padding: 100px 0;
-}
 
 .max-width{
     max-width: 1300px;
@@ -47,7 +44,7 @@ section{
     position: fixed;
     height: 45px;
     width: 42px;
-    background: #ec2020;
+    background: #437afa;
     right: 30px;
     bottom: 10px;
     text-align: center;
