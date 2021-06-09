@@ -13,9 +13,9 @@
       	<ul class="list fade-in">
         	<li class="item">
          		<input type="radio" id="radio_testimonial-1" name="basic_carousel" checked="checked" />
-          		<label class="label_testimonial-1" for="radio_testimonial-1">Présentation</label>
+          		<label class="label_testimonial-1" for="radio_testimonial-1">Compétence</label>
           		<div class="content-test content_testimonial-1">
-					<h1>Présentation</h1>
+					<h1>Compétence</h1>
 					<p>“The team really takes pride in their work. If I didn’t know any better I would think they actually worked for my company.”</p>
 					<p class="testimonialFrom">Bill, Owner</p>
 					<p class="testimonialState">Rochester, NY</p>

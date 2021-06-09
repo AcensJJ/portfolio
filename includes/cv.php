@@ -1,11 +1,16 @@
 <div class="main-content"> 
 	<div class="box-container">
 		<div class="card">
-			<div class="social"><a class="fab fa-twitter" href="#"></a><a class="fab fa-facebook" href="#"></a><a class="fab fa-behance" href="#"></a><a class="fab fa-dribbble" href="#"></a><a class="fab fa-linkedin" href="#"></a><a class="fab fa-github" href="#"></a></div>
+			<div class="social">
+				<a class="fab fa-facebook" href="https://www.facebook.com/Air.Acens"></a>
+				<a class="fab fa-instagram" href="https://www.instagram.com/jj_acens/"></a>
+				<a class="fab fa-linkedin" href="https://www.linkedin.com/"></a>
+				<a class="fab fa-github" href="https://github.com/AcensJJ"></a>
+			</div>
 			<div class="pic"><img src="images/me/jacens.jpg" alt="profile-picture" title="Someone Famous"/></div>
 			<div class="content">
-			<h3 class="title">Jean-Jacques Acens</h3><span>Web Developer</span>
-			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praesent libero. Sed cursus ante dapibus diam.</p>
+			<h3 class="title">Jean-Jacques Acens</h3><span>Developer</span>
+			<p>Je viens de la France <span class="fas fa-map-marker-alt" style="color:#2196F3;"></span> J'aime développer des applications <span class="fas fa-globe" style="color:#9C27B0;"></span> j'apprécie boire du café <span class="fa fa-coffee" style="color:#F44336;"></span> Mais aussi j'adore faire du sport <span class="fas fa-volleyball-ball" style="color:#3EAA29;"></span>  et écouter de la musique <span class="fas fa-headphones" style="color:#FF9800;"></span> .</p>
 			</div>
 		</div>
 	</div>
@@ -18,17 +23,17 @@
 			<ul>
 				<li>
 					<div> 
-						<time>2011</time><span class="edu-desc">10th grade - Hiranandani Foundation School</span>
+						<time>2015 - 2017</time><span class="edu-desc">Bac stl - Lycée Polyvalent Aristide Maillol</span>
 					</div>
 				</li>
 				<li>
 					<div>
-						<time>2013</time><span class="edu-desc">12th grade - PACE Science Junior College</span>
+						<time>2017 - 2019</time><span class="edu-desc">Bts sio - Lycée Jean-Lurçat</span>
 					</div>
 				</li>
 				<li>
 					<div>
-						<time>2017</time><span class="edu-desc">Bachelor of Technology in Computer Science - NMIMS University</span>
+						<time>2019 - Now</time><span class="edu-desc">42 Lyon</span>
 					</div>
 				</li>
 			</ul>
