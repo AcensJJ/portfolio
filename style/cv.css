@@ -146,7 +146,7 @@ hr.hr-style-sm-heading {
 .card{
   background: white;
   color: black;
-  border: 1px solid #2196F3;
+  /* border: 1px solid #2196F3; */
   transition: all 0.7s;
 }
 .card a{
