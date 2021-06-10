@@ -8,19 +8,25 @@
     	</header>
   	</div>
   
-  	<div class="ui placeholder segment" style="background : #eee; border-color: #eee; box-shadow: none;">
-      <div class="ui two column stackable center aligned grid">
+  	<div class="ui placeholder segment fade-in" style="background : #eee; border-color: #eee; box-shadow: none;">
+      <div class="ui three column stackable center aligned grid">
         <div class="middle aligned row">
           <div class="column">
             <div class="ui icon header">
-              <i class="phone icon"></i>
-              06 02 35 34 95
+              <i class="phone icon" style="color: #E59866;"></i>
+              <a style="color: #33475c;">06 02 35 34 95</a>
             </div>
           </div>
           <div class="column">
             <div class="ui icon header">
-			  <i class="envelope icon"></i>
-              jacens@student.42lyon.fr
+			  <i class="envelope icon" style="color: #E59866;"></i>
+              <a style="color: #33475c;">jacens@student.42lyon.fr</a>
+            </div>
+          </div>
+          <div class="column">
+            <div class="ui icon header">
+			  <i class="github icon" style="color: #E59866;"></i>
+              <a href="https://github.com/AcensJJ" style="color: #33475c;">https://github.com/AcensJJ</a>
             </div>
           </div>
         </div>

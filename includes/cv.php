@@ -18,7 +18,7 @@
     	<svg id="svg2" style="width:100%;margin-top:-100px;margin-bottom:17px;" xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="100" viewBox="0 0 300 100" preserveAspectRatio="none">
 			<path d="M 0 103 q 150 -200 300 0" stroke="#3498db" stroke-width="5" fill="#3498db" />
 		</svg>
-		<h2 id="education" class="section-title">Scolarité</h2>
+		<h2 id="education" class="section-title fade-in">Scolarité</h2>
 		<section class="timeline">
 			<ul>
 				<li>
