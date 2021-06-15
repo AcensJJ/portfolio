@@ -3,6 +3,7 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<title>Jacens</title>
 	<link rel="icon" href="images/logo.PNG"/>
+	<link rel="stylesheet" href="https://pro.fontawesome.com/releases/v6.0.0-beta1/css/all.css">
 	<link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/semantic-ui/2.4.1/semantic.min.css">
 	<link rel="stylesheet" href="style/cv.css">
 	<link rel="stylesheet" href="style/helloworld.css">
