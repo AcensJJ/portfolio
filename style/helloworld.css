@@ -21,12 +21,22 @@ section.hello__world{
 	align-items: center;
 	min-height: 100vh;
 	background: #e7ffff;
+    background: url(../images/projet/bg.png)no-repeat;
 }
 .container__elements {
 	position: relative;
 	display: flex;
 	justify-content: center;
 	align-items: center;
+}
+
+.container img{
+  position: absolute;
+  width: 80%;
+  height: 80%;
+  top: 10%;
+  left: 10%;
+  object-fit: contain;
 }
 
 .bg {

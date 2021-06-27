@@ -40,4 +40,15 @@
 		<div class="tooltip">linkedin</div>
 		</a>
 	</div>
+
+	<img src="images/projet/1.png" class="object" data-value="-2" alt="">
+	<img src="images/projet/2.png" class="object" data-value="6" alt="">
+	<img src="images/projet/3.png" class="object" data-value="4" alt="">
+	<img src="images/projet/4.png" class="object" data-value="-6" alt="">
+	<img src="images/projet/5.png" class="object" data-value="8" alt="">
+	<img src="images/projet/6.png" class="object" data-value="-4" alt="">
+	<img src="images/projet/7.png" class="object" data-value="5" alt="">
+	<img src="images/projet/8.png" class="object" data-value="-9" alt="">
+	<img src="images/projet/9.png" class="object" data-value="-5" alt="">
+
 </div>
