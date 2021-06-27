@@ -50,5 +50,6 @@
 	<img src="images/projet/7.png" class="object" data-value="5" alt="">
 	<img src="images/projet/8.png" class="object" data-value="-9" alt="">
 	<img src="images/projet/9.png" class="object" data-value="-5" alt="">
+	<img src="images/projet/bg.png" class="bg" alt="">
 
 </div>

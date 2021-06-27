@@ -20,8 +20,8 @@ section.hello__world{
 	justify-content: center;
 	align-items: center;
 	min-height: 100vh;
-	background: #e7ffff;
-    background: url(../images/projet/bg.png)no-repeat;
+	background: #120336;
+    /* background: url(../images/projet/bg.png)no-repeat; */
 }
 .container__elements {
 	position: relative;
@@ -31,13 +31,16 @@ section.hello__world{
 }
 
 .container img{
-  position: absolute;
-  width: 80%;
-  height: 80%;
-  top: 10%;
-  left: 10%;
-  object-fit: contain;
-}
+	position: absolute;
+	width: 80%;
+	height: 80%;
+	top: 10%;
+	left: 10%;
+	object-fit: contain;
+  }
+.container img.bg{
+	z-index: -1;
+  }
 
 .bg {
   width: 450px;
