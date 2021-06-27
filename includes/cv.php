@@ -23,7 +23,7 @@
 			<ul>
 				<li>
 					<div> 
-						<time>2015 - 2017</time><span class="edu-desc">Bac stl - Lycée Polyvalent Aristide Maillol</span>
+						<time>2014 - 2017</time><span class="edu-desc">Bac stl - Lycée Polyvalent Aristide Maillol</span>
 					</div>
 				</li>
 				<li>
