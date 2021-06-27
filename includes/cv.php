@@ -4,7 +4,7 @@
 			<div class="social">
 				<a class="fab fa-facebook" href="https://www.facebook.com/Air.Acens"></a>
 				<a class="fab fa-instagram" href="https://www.instagram.com/jj_acens/"></a>
-				<a class="fab fa-linkedin" href="https://www.linkedin.com/"></a>
+				<a class="fab fa-linkedin" href="https://www.linkedin.com/in/jj-acens-0b5a9a215/"></a>
 				<a class="fab fa-github" href="https://github.com/AcensJJ"></a>
 			</div>
 			<div class="pic"><img src="images/me/jacens.jpg" alt="profile-picture" title="Someone Famous"/></div>
