@@ -75,7 +75,7 @@ body{
 	position: fixed;
     z-index: 999;
 	height: 3px;
-	top : 1px;
+	top : 0;
 	margin-bottom: 2px;
 	background: #437afa;
 	width: 0%;
