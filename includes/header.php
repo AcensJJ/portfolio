@@ -21,6 +21,9 @@
 	<meta property="og:url" content="https://www.jacens.fr/">
 	<meta property="og:title" content="Page d'accueil - Jacens">
 	<meta property="og:type" content="website">
+	<meta property="og:description" content="Portfolio devellopeur Jacens.">
+	<meta property="og:image" content="https://jacens.fr/images/logo.PNG">
+	<meta property="og:locale" content="fr_FR" />
 </head>
 <body>
 	
