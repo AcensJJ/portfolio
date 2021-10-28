@@ -11,6 +11,7 @@
 	<link rel="stylesheet" href="style/styles.css">
 	<link rel="stylesheet" href="style/carousel.css">
 	<link rel="stylesheet" href="style/appear.css">
+	<link rel="stylesheet" href="style/skill.css">
 	<link rel="stylesheet" href="style/info.css">
 	<meta name="description" content="Portfolio devellopeur Jacens.">
 	<meta name="author" content="Jean-Jacques Acens">

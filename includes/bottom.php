@@ -15,12 +15,14 @@
 		<script src='https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js'></script>
 		<script src='https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.0/jquery.min.js'></script>
 		<script src='https://cdnjs.cloudflare.com/ajax/libs/Chart.js/2.6.0/Chart.js'></script>
+		<script src='https://cdnjs.cloudflare.com/ajax/libs/vue/2.1.9/vue.min.'></script>
 		<!-- --- -->
 
 		<!-- My js -->
 		<script src="js/helloworld.js"></script>
 		<script src="js/carousel.js"></script>
 		<script src="js/info.js"></script>
+		<script src="js/skill.js"></script>
 		<script src="js/cv.js"></script>
 		<script src="js/observers.js"></script>
 		<script src="js/vanilla-tilt.js"></script>
