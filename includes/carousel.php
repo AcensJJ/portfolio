@@ -5,6 +5,6 @@
 		<a href="https://github.com/AcensJJ/ppe2"><img src="https://user-images.githubusercontent.com/45235527/96803820-9dd45200-140d-11eb-89c6-a159b507ee0a.PNG" alt="PPE2" /></a>
 		<a href="https://github.com/AcensJJ/cub3d"><img src="https://user-images.githubusercontent.com/45235527/104811336-f2b01a80-57fa-11eb-9866-985ac5ca8f3a.png" alt="Cub3D" /></a>
 		<a href="https://github.com/AcensJJ/PPE3"><img src="https://user-images.githubusercontent.com/45235527/96742800-938d6600-13c3-11eb-998a-874680b5f667.PNG" alt="PPE3" /></a>
-		<a href="https://github.com/AcensJJ/ft_transcendence"><img src="https://user-images.githubusercontent.com/45235527/139705997-0a7786f1-a2f8-41fd-8447-e7d158861286.png" alt="Pong War" /></a>
+		<a href="https://github.com/AcensJJ/ft_transcendence"><img src="https://user-images.githubusercontent.com/45235527/139706410-5a7bf7a6-dbaf-4451-b99b-56814eeb1c5c.png" alt="Pong War" /></a>
 	</div>
 </section>
