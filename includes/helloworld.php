@@ -32,12 +32,16 @@
 	<!--   Social Connections -->
 	<div class="social-icons">
 		<a class="social-icon social-icon--github" href="https://github.com/AcensJJ" target="_blank">
-		<i class="fab fa-github"></i>
-		<div class="tooltip">github</div>
+			<i class="fab fa-github"></i>
+			<div class="tooltip">github</div>
 		</a>
 		<a class="social-icon social-icon--linkedin" href="https://www.linkedin.com/in/jj-acens-0b5a9a215/" target="_blank">
-		<i class="fab fa-linkedin"></i>
-		<div class="tooltip">linkedin</div>
+			<i class="fab fa-linkedin"></i>
+			<div class="tooltip">linkedin</div>
+		</a>
+		<a class="social-icon social-icon--cv" href="https://jacens.fr/images/cv.pdf" target="_blank">
+			<i class="fas fa-paperclip"></i>
+			<div class="tooltip">curriculum vitae</div>
 		</a>
 	</div>
 
