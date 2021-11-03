@@ -108,5 +108,6 @@
         <img src="images/skill/postgresql.png"/>
       </a>
     </div>
+    <!-- photoshop / php / Influxdb -->
   </div>
 </div>
