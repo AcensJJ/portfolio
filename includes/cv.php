@@ -6,11 +6,13 @@
 				<a class="fab fa-instagram" href="https://www.instagram.com/jj_acens/"></a>
 				<a class="fab fa-linkedin" href="https://www.linkedin.com/in/jj-acens-0b5a9a215/"></a>
 				<a class="fab fa-github" href="https://github.com/AcensJJ"></a>
+				<a class="fas fa-paperclip" href="https://jacens.fr/images/cv.pdf"></a>
 			</div>
 			<div class="pic"><img src="images/me/jacens.jpg" alt="profile-picture" title="Someone Famous"/></div>
 			<div class="content">
-			<h3 class="title">Jean-Jacques Acens</h3><span>Developpeur</span>
-			<p>Je suis originaire de France <span class="fas fa-map-marker-alt" style="color:#2196F3;"></span> J'aime développer des applications <span class="fas fa-globe" style="color:#9C27B0;"></span> j'apprécie boire du café <span class="fa fa-coffee" style="color:#F44336;"></span> Mais aussi j'adore faire du sport <span class="fas fa-volleyball-ball" style="color:#3EAA29;"></span>  et écouter de la musique <span class="fas fa-headphones" style="color:#FF9800;"></span> .</p>
+				<h3 class="title">Jean-Jacques Acens</h3><span>Developpeur</span>
+				<p>Je suis originaire de France <span class="fas fa-map-marker-alt" style="color:#2196F3;"></span> J'aime développer des applications <span class="fas fa-globe" style="color:#9C27B0;"></span> j'apprécie boire du café <span class="fa fa-coffee" style="color:#F44336;"></span> Mais aussi j'adore faire du sport <span class="fas fa-volleyball-ball" style="color:#3EAA29;"></span>  et écouter de la musique <span class="fas fa-headphones" style="color:#FF9800;"></span> .</p>
+				<a class="cv" href="https://jacens.fr/images/cv.pdf">curriculum vitae</a>
 			</div>
 		</div>
 	</div>

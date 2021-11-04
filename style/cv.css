@@ -148,9 +148,6 @@ hr.hr-style-sm-heading {
   /* border: 1px solid #2196F3; */
   transition: all 0.7s;
 }
-.card a{
-  text-decoration: underline;
-}
 .card:hover{ 
   background:rgba(21,96,243,0.4);
   color:white;
