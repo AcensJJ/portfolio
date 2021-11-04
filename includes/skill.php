@@ -84,7 +84,7 @@
       </a>
     </div>
     <div class="card" v-for="post in filteredList">
-      <a href="#" target="_blank">
+      <a href="https://github.com/AcensJJ/ft_linear_regression" target="_blank">
         <img src="images/skill/python.png"/>
       </a>
     </div>
