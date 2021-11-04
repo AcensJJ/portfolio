@@ -3,6 +3,7 @@ div#app {
     align-items: center;
     justify-content: center;
     flex-direction: column;
+    margin-bottom: 2%;
   }
   div#app h1 {
     margin-top: 25%;

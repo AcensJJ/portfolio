@@ -24,8 +24,8 @@
       </a>
     </div>
     <div class="card" v-for="post in filteredList">
-      <a href="https://github.com/AcensJJ/PPE3" target="_blank">
-        <img src="images/skill/PhpMyAdmin.png"/>
+      <a href="https://github.com/AcensJJ/PPE2" target="_blank">
+        <img src="images/skill/php.png"/>
       </a>
     </div>
     <div class="card" v-for="post in filteredList">
@@ -108,6 +108,5 @@
         <img src="images/skill/postgresql.png"/>
       </a>
     </div>
-    <!-- photoshop / php / Influxdb -->
   </div>
 </div>
