@@ -20,7 +20,7 @@
           <div class="column">
             <div class="ui icon header">
 			  <i class="envelope icon" style="color: #E59866;"></i>
-              <a href="mailto:uentosacens@gmail.com" style="color: #33475c;">uentosacens@gmail.com</a>
+              <a href="mailto:jeanjacquesacens@gmail.com" style="color: #33475c;">jeanjacquesacens@gmail.com</a>
             </div>
           </div>
           <div class="column">
