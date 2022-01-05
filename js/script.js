@@ -30,35 +30,4 @@ $(document).ready(function(){
         $('html').css("scrollBehavior", "auto");
     });
 
-    // owl carousel script
-    $('.carousel').owlCarousel({
-        margin: 20,
-        loop: true,
-        autoplayTimeOut: 2000,
-        autoplayHoverPause: true,
-        responsive: {
-            0:{
-                items: 1,
-                nav: false
-            },
-            600:{
-                items: 2,
-                nav: false
-            },
-            1000:{
-                items: 3,
-                nav: false
-            }
-        }
-    });
-});
-
-VanillaTilt.init(document.querySelectorAll(".sl-anime-mv"), {
-	max: 5,
-	speed: 200
-});
-
-VanillaTilt.init(document.querySelectorAll(".moving"), {
-	max: 20,
-	speed: 250
 });
