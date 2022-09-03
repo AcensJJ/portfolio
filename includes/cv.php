@@ -35,7 +35,35 @@
 				</li>
 				<li>
 					<div>
-						<time>2019 - Now</time><span class="edu-desc">42 Lyon</span>
+						<time>2019 - 2022</time><span class="edu-desc">42 Lyon</span>
+					</div>
+				</li>
+			</ul>
+		</section>
+
+		<section class="section-travail">
+		<h2 id="travail" class="section-title fade-in">Expérience</h2>
+		<section class="timeline">
+			<ul>
+				<li>
+					<div> 
+						<time>2018</time><span class="edu-desc">Stagiaire Developpeur web chez PATRICK TERNISIEN, confection d'un site vitrine à l'aide de Wordpress</span>
+					</div>
+				</li>
+				<li>
+					<div>
+						<time>2019</time><span class="edu-desc">Stagiaire Developpeur web pour Krypton 66, création d'un site de rencontre avec le framework Symfony</span>
+					</div>
+				</li>
+				<li>
+					<div>
+						<time>2022</time><span class="edu-desc">Stagiaire Développeur web pour Cellance, developpement de l'application web sous Angular pour le Frontend et NestJs pour le Backend</span>
+					</div>
+				</li>
+
+				<li>
+					<div>
+						<time>2022 - Now</time><span class="edu-desc">Developpeur web sous Angular pour le Frontend et NestJs pour le Backend</span>
 					</div>
 				</li>
 			</ul>
