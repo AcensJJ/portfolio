@@ -14,7 +14,7 @@
           <div class="column">
             <div class="ui icon header">
               <i class="phone icon" style="color: #E59866;"></i>
-              <a style="color: #33475c;">06 02 35 34 95</a>
+              <a style="color: #33475c;">07 67 92 46 95</a>
             </div>
           </div>
           <div class="column">
