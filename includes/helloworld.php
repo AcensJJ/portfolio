@@ -35,7 +35,7 @@
 			<i class="fab fa-github"></i>
 			<div class="tooltip">github</div>
 		</a>
-		<a class="social-icon social-icon--linkedin" href="https://www.linkedin.com/in/jj-acens-0b5a9a215/" target="_blank">
+		<a class="social-icon social-icon--linkedin" href="https://www.linkedin.com/in/jean-jacques-acens-0b5a9a215/" target="_blank">
 			<i class="fab fa-linkedin"></i>
 			<div class="tooltip">linkedin</div>
 		</a>
