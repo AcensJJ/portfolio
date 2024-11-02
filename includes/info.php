@@ -4,7 +4,7 @@
       	<span class="h1 d-block">
         	<span>❝</span>
       	</span>
-      	<h2>Contact TEST</h2>
+      	<h2>Contact</h2>
     	</header>
   	</div>
   
